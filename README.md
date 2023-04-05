@@ -1,6 +1,13 @@
 # jwt-apigateway-security
 
+Course:
 https://www.youtube.com/watch?v=MWvnmyLRUik
+
+JWT:
+https://youtu.be/MWvnmyLRUik
+
+Playlist:
+https://youtube.com/playlist?list=PLVz2XdJiJQxxWhFkucZBoMxeYE6qTgEF8
 
 ## Regist an user
 
