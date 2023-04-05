@@ -1,10 +1,11 @@
 # jwt-apigateway-security
 
 Course:
-https://www.youtube.com/watch?v=MWvnmyLRUik
+https://youtu.be/MWvnmyLRUik
 
 JWT:
-https://youtu.be/MWvnmyLRUik
+https://youtu.be/R76S0tfv36w
+https://youtu.be/NcLtLZqGu2M
 
 Playlist:
 https://youtube.com/playlist?list=PLVz2XdJiJQxxWhFkucZBoMxeYE6qTgEF8
